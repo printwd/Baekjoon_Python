@@ -6,4 +6,4 @@ elif A<B:
 elif A==B:
 	print("==")
 
-print("안녕")
+print("안녕히세요!")
